@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rfc2898Gpu", "Rfc2898Gpu.vcxproj", "{4F359131-6ADB-4E00-AF29-CE6EE902316C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Debug|x64.ActiveCfg = Debug|x64
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Debug|x64.Build.0 = Debug|x64
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Debug|x86.Build.0 = Debug|Win32
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Release|x64.ActiveCfg = Release|x64
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Release|x64.Build.0 = Release|x64
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Release|x86.ActiveCfg = Release|Win32
+		{4F359131-6ADB-4E00-AF29-CE6EE902316C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670EE779-B0EA-4FFE-B286-2A73C1495531}
+	EndGlobalSection
+EndGlobal
